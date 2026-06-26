@@ -23,7 +23,7 @@
     </header>
 
     <nav class="navegacion">
-      <a class="navegacion__enlace navegacion__enlace--activo" href="index.php"
+      <a class="navegacion__enlace" href="index.php"
         >Tienda</a
       >
       <a class="navegacion__enlace" href="nosotros.php">Nosotros</a>
